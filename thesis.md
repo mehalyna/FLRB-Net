@@ -311,9 +311,9 @@ How to run locally. Create a new folder, add the csproj and code files shown, re
 Selected supporting sources. Word-embedding and feature studies. ([ResearchGate][2]) Genetic synthesis for fuzzy rules and adaptive fuzzy controllers. ([dspace.chmnu.edu.ua][3]) .NET and fuzzy libraries. ([NuGet][4]) Next-generation SIEM with AI. ([hunters.security][1])
 
 
-[1]: https://www.hunters.security/en/blog/next-gen-siem-ai-cloud-secops?utm_source=chatgpt.com "Next-Gen SIEM: How AI and Cloud are Redefining SecOps ..."
-[2]: https://www.researchgate.net/publication/348565257_Feature_extraction_based_on_word_embedding_models_for_intrusion_detection_in_network_traffic?utm_source=chatgpt.com "(PDF) Feature extraction based on word embedding ..."
-[3]: https://dspace.chmnu.edu.ua/jspui/bitstream/123456789/1656/1/Kozlov%2C%20O.%2C%20Kondratenko%2C%20Y..pdf?utm_source=chatgpt.com "Automatic Synthesis of Rule Bases of Fuzzy Control ..."
-[4]: https://www.nuget.org/packages/Accord.Fuzzy/3.5.4-alpha?utm_source=chatgpt.com "Accord.Fuzzy 3.5.4-alpha"
-[5]: https://www.lansweeper.com/blog/itam/a-comprehensive-guide-to-siem-security-tools/?utm_source=chatgpt.com "A Comprehensive Guide to SIEM Security Tools"
-[6]: https://www.nature.com/articles/s41598-025-05182-y?utm_source=chatgpt.com "Optimization for threat classification of various data types ..."
+[1]: https://www.hunters.security/en/blog/next-gen-siem-ai-cloud-secops "Next-Gen SIEM: How AI and Cloud are Redefining SecOps ..."
+[2]: https://www.researchgate.net/publication/348565257_Feature_extraction_based_on_word_embedding_models_for_intrusion_detection_in_network_traffic "(PDF) Feature extraction based on word embedding ..."
+[3]: https://dspace.chmnu.edu.ua/jspui/bitstream/123456789/1656/1/Kozlov%2C%20O.%2C%20Kondratenko%2C%20Y..pdf"Automatic Synthesis of Rule Bases of Fuzzy Control ..."
+[4]: https://www.nuget.org/packages/Accord.Fuzzy/3.5.4-alpha "Accord.Fuzzy 3.5.4-alpha"
+[5]: https://www.lansweeper.com/blog/itam/a-comprehensive-guide-to-siem-security-tools/ "A Comprehensive Guide to SIEM Security Tools"
+[6]: https://www.nature.com/articles/s41598-025-05182-y "Optimization for threat classification of various data types ..."
